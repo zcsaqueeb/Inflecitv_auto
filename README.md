@@ -1,5 +1,8 @@
 # Inflectiv Auto Bot
 
+**Join the Tap Node game today using this referral link:**  
+[Tap Node Game Referral Link](https://tapnodegame.inflectiv.ai/?ref=d07ccdd0-e0e7-4fa5-a607-30ac48e967c6)
+
 Inflectiv Auto Bot is a Node.js automation script for the Tap Node game on the Inflectiv platform. This bot helps players automate tasks such as:
 - Fetching user profile
 - Completing tasks
@@ -64,4 +67,4 @@ npm run start
 - Author is not responsible for any account actions
 
 ## License
-MIT License
+MIT License  
